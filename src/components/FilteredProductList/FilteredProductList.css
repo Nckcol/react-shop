@@ -1,0 +1,26 @@
+.FilteredProductList {
+    padding: 32px 0;
+}
+
+.FilteredProductList-Filter {
+    margin-bottom: 32px;
+}
+
+.FilteredProductList-List {
+    display: flex;
+    flex-wrap: wrap;
+    margin: -16px;
+    align-items: stretch;
+}
+
+.FilteredProductList-List-item {
+    padding: 16px;
+    flex: 0 0 25%;
+    max-width: 25%;
+    box-sizing: border-box;
+}
+
+.FilteredProductList-Pagination {
+    margin-top: 32px;
+    text-align: center;
+}

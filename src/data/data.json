@@ -1,0 +1,964 @@
+{
+  "products": [
+    {
+      "id": 0,
+      "available": true,
+      "brand": "Reebok",
+      "title": "Reebok Zjet Soul Grey Running Shoes",
+      "description": "Designed to move and run freely, these grey coloured 'Zjet Soul' running shoes from the house of Reebok are a perfect blend of style and comfort. Meant for men, these running shoes are quite high on quality. The other specifications are:",
+      "price": {
+        "actual": "7500",
+        "default": "14999",
+        "discount": "50"
+      },
+      "properties": [
+        {
+          "id": 0,
+          "title": "Sole Material",
+          "value": "Rubber"
+        },
+        {
+          "id": 1,
+          "title": "Closing",
+          "value": "Lace-up"
+        },
+        {
+          "id": 2,
+          "title": "Product warranty",
+          "value": "3 Months Warranty by Brand/Manufacturer Against Manufacturing Defect"
+        },
+        {
+          "id": 3,
+          "title": "Fit",
+          "value": "Regular"
+        },
+        {
+          "id": 4,
+          "title": "Ankle Height",
+          "value": "Low Ankle"
+        },
+        {
+          "id": 5,
+          "title": "Color",
+          "value": "Grey"
+        },
+        {
+          "id": 6,
+          "title": "Upper Material Details",
+          "value": "Mesh"
+        },
+        {
+          "id": 7,
+          "title": "SKU",
+          "value": "RE105SH14HUFINDFAS"
+        }
+      ],
+      "photos": [
+        {
+          "2x": "https://static1.jassets.com/p/Reebok-Reebok-Zjet-Soul-Grey-Running-Shoes-3902-5834962-1-pdp_slider_xs.jpg",
+          "main": "https://static1.jassets.com/p/Reebok-Reebok-Zjet-Soul-Grey-Running-Shoes-3902-5834962-1-pdp_slider_m.jpg",
+          "thumb": "https://static1.jassets.com/p/Reebok-Reebok-Zjet-Soul-Grey-Running-Shoes-3902-5834962-1-pdp_slider_xxs.jpg"
+        },
+        {
+          "2x": "https://static1.jassets.com/p/Reebok-Reebok-Zjet-Soul-Grey-Running-Shoes-3902-5834962-2-pdp_slider_xs.jpg",
+          "main": "https://static1.jassets.com/p/Reebok-Reebok-Zjet-Soul-Grey-Running-Shoes-3902-5834962-2-pdp_slider_m.jpg",
+          "thumb": "https://static1.jassets.com/p/Reebok-Reebok-Zjet-Soul-Grey-Running-Shoes-3902-5834962-2-pdp_slider_xxs.jpg"
+        },
+        {
+          "2x": "https://static1.jassets.com/p/Reebok-Reebok-Zjet-Soul-Grey-Running-Shoes-3902-5834962-3-pdp_slider_xs.jpg",
+          "main": "https://static1.jassets.com/p/Reebok-Reebok-Zjet-Soul-Grey-Running-Shoes-3902-5834962-3-pdp_slider_m.jpg",
+          "thumb": "https://static1.jassets.com/p/Reebok-Reebok-Zjet-Soul-Grey-Running-Shoes-3902-5834962-3-pdp_slider_xxs.jpg"
+        },
+        {
+          "2x": "https://static1.jassets.com/p/Reebok-Reebok-Zjet-Soul-Grey-Running-Shoes-3902-5834962-4-pdp_slider_xs.jpg",
+          "main": "https://static1.jassets.com/p/Reebok-Reebok-Zjet-Soul-Grey-Running-Shoes-3902-5834962-4-pdp_slider_m.jpg",
+          "thumb": "https://static1.jassets.com/p/Reebok-Reebok-Zjet-Soul-Grey-Running-Shoes-3902-5834962-4-pdp_slider_xxs.jpg"
+        },
+        {
+          "2x": "https://static1.jassets.com/p/Reebok-Reebok-Zjet-Soul-Grey-Running-Shoes-3902-5834962-5-pdp_slider_xs.jpg",
+          "main": "https://static1.jassets.com/p/Reebok-Reebok-Zjet-Soul-Grey-Running-Shoes-3902-5834962-5-pdp_slider_m.jpg",
+          "thumb": "https://static1.jassets.com/p/Reebok-Reebok-Zjet-Soul-Grey-Running-Shoes-3902-5834962-5-pdp_slider_xxs.jpg"
+        },
+        {
+          "2x": "https://static1.jassets.com/p/Reebok-Reebok-Zjet-Soul-Grey-Running-Shoes-3902-5834962-6-pdp_slider_xs.jpg",
+          "main": "https://static1.jassets.com/p/Reebok-Reebok-Zjet-Soul-Grey-Running-Shoes-3902-5834962-6-pdp_slider_m.jpg",
+          "thumb": "https://static1.jassets.com/p/Reebok-Reebok-Zjet-Soul-Grey-Running-Shoes-3902-5834962-6-pdp_slider_xxs.jpg"
+        },
+        {
+          "2x": "https://static1.jassets.com/p/Reebok-Reebok-Zjet-Soul-Grey-Running-Shoes-3902-5834962-7-pdp_slider_xs.jpg",
+          "main": "https://static1.jassets.com/p/Reebok-Reebok-Zjet-Soul-Grey-Running-Shoes-3902-5834962-7-pdp_slider_m.jpg",
+          "thumb": "https://static1.jassets.com/p/Reebok-Reebok-Zjet-Soul-Grey-Running-Shoes-3902-5834962-7-pdp_slider_xxs.jpg"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "available": true,
+      "brand": "Nike",
+      "title": "Flex Experience Rn 6 Navy Blue Running Shoes",
+      "description": "Run mile after mile with utmost ease wearing these navy blue coloured 'Flex Experience RN 6' running shoes from the house of Nike. Meant for men, these running shoes will withstand the test of time. The other specifications are:",
+      "price": {
+        "actual": "3442",
+        "default": "5295",
+        "discount": "35"
+      },
+      "properties": [
+        {
+          "id": 0,
+          "title": "Sole Material",
+          "value": "Rubber"
+        },
+        {
+          "id": 1,
+          "title": "Inner Lining",
+          "value": "Mesh"
+        },
+        {
+          "id": 2,
+          "title": "Shoe Weight",
+          "value": "Light (242 GM)"
+        },
+        {
+          "id": 3,
+          "title": "Closing",
+          "value": "Lace-up"
+        },
+        {
+          "id": 4,
+          "title": "Tip shape",
+          "value": "Round"
+        },
+        {
+          "id": 5,
+          "title": "Product warranty",
+          "value": "6 MONTHS AGAINST MANUFACTURING DEFECTS AND NOT VALID ON MORE THAN 20% DISCOUNTED PRODUCTS"
+        },
+        {
+          "id": 6,
+          "title": "Technology",
+          "value": "Flex"
+        },
+        {
+          "id": 7,
+          "title": "Fit",
+          "value": "Regular"
+        },
+        {
+          "id": 8,
+          "title": "Ankle Height",
+          "value": "Low Ankle"
+        },
+        {
+          "id": 9,
+          "title": "Color",
+          "value": "Navy Blue"
+        },
+        {
+          "id": 10,
+          "title": "Upper Material Details",
+          "value": "Mesh|Synthetic Leather"
+        },
+        {
+          "id": 11,
+          "title": "SKU",
+          "value": "NI091SH60FEMINDFAS"
+        }
+      ],
+      "photos": [
+        {
+          "2x": "https://static1.jassets.com/p/Nike-Flex-Experience-Rn-6-Navy-Blue-Running-Shoes-4567-478371003-1-pdp_slider_xs.jpg",
+          "main": "https://static1.jassets.com/p/Nike-Flex-Experience-Rn-6-Navy-Blue-Running-Shoes-4567-478371003-1-pdp_slider_m.jpg",
+          "thumb": "https://static1.jassets.com/p/Nike-Flex-Experience-Rn-6-Navy-Blue-Running-Shoes-4567-478371003-1-pdp_slider_xxs.jpg"
+        },
+        {
+          "2x": "https://static1.jassets.com/p/Nike-Flex-Experience-Rn-6-Navy-Blue-Running-Shoes-4567-478371003-2-pdp_slider_xs.jpg",
+          "main": "https://static1.jassets.com/p/Nike-Flex-Experience-Rn-6-Navy-Blue-Running-Shoes-4567-478371003-2-pdp_slider_m.jpg",
+          "thumb": "https://static1.jassets.com/p/Nike-Flex-Experience-Rn-6-Navy-Blue-Running-Shoes-4567-478371003-2-pdp_slider_xxs.jpg"
+        },
+        {
+          "2x": "https://static1.jassets.com/p/Nike-Flex-Experience-Rn-6-Navy-Blue-Running-Shoes-4567-478371003-3-pdp_slider_xs.jpg",
+          "main": "https://static1.jassets.com/p/Nike-Flex-Experience-Rn-6-Navy-Blue-Running-Shoes-4567-478371003-3-pdp_slider_m.jpg",
+          "thumb": "https://static1.jassets.com/p/Nike-Flex-Experience-Rn-6-Navy-Blue-Running-Shoes-4567-478371003-3-pdp_slider_xxs.jpg"
+        },
+        {
+          "2x": "https://static1.jassets.com/p/Nike-Flex-Experience-Rn-6-Navy-Blue-Running-Shoes-4567-478371003-4-pdp_slider_xs.jpg",
+          "main": "https://static1.jassets.com/p/Nike-Flex-Experience-Rn-6-Navy-Blue-Running-Shoes-4567-478371003-4-pdp_slider_m.jpg",
+          "thumb": "https://static1.jassets.com/p/Nike-Flex-Experience-Rn-6-Navy-Blue-Running-Shoes-4567-478371003-4-pdp_slider_xxs.jpg"
+        },
+        {
+          "2x": "https://static1.jassets.com/p/Nike-Flex-Experience-Rn-6-Navy-Blue-Running-Shoes-4567-478371003-5-pdp_slider_xs.jpg",
+          "main": "https://static1.jassets.com/p/Nike-Flex-Experience-Rn-6-Navy-Blue-Running-Shoes-4567-478371003-5-pdp_slider_m.jpg",
+          "thumb": "https://static1.jassets.com/p/Nike-Flex-Experience-Rn-6-Navy-Blue-Running-Shoes-4567-478371003-5-pdp_slider_xxs.jpg"
+        },
+        {
+          "2x": "https://static1.jassets.com/p/Nike-Flex-Experience-Rn-6-Navy-Blue-Running-Shoes-4567-478371003-6-pdp_slider_xs.jpg",
+          "main": "https://static1.jassets.com/p/Nike-Flex-Experience-Rn-6-Navy-Blue-Running-Shoes-4567-478371003-6-pdp_slider_m.jpg",
+          "thumb": "https://static1.jassets.com/p/Nike-Flex-Experience-Rn-6-Navy-Blue-Running-Shoes-4567-478371003-6-pdp_slider_xxs.jpg"
+        },
+        {
+          "2x": "https://static1.jassets.com/p/Nike-Flex-Experience-Rn-6-Navy-Blue-Running-Shoes-4567-478371003-7-pdp_slider_xs.jpg",
+          "main": "https://static1.jassets.com/p/Nike-Flex-Experience-Rn-6-Navy-Blue-Running-Shoes-4567-478371003-7-pdp_slider_m.jpg",
+          "thumb": "https://static1.jassets.com/p/Nike-Flex-Experience-Rn-6-Navy-Blue-Running-Shoes-4567-478371003-7-pdp_slider_xxs.jpg"
+        },
+        {
+          "2x": "https://static1.jassets.com/p/Nike-Flex-Experience-Rn-6-Navy-Blue-Running-Shoes-4567-478371003-8-pdp_slider_xs.jpg",
+          "main": "https://static1.jassets.com/p/Nike-Flex-Experience-Rn-6-Navy-Blue-Running-Shoes-4567-478371003-8-pdp_slider_m.jpg",
+          "thumb": "https://static1.jassets.com/p/Nike-Flex-Experience-Rn-6-Navy-Blue-Running-Shoes-4567-478371003-8-pdp_slider_xxs.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "available": true,
+      "brand": "Lee Cooper",
+      "title": "Navy Blue Running Shoes",
+      "description": "Run for extra miles and discover the tracks less-travelled in style, wearing this pair of navy blue running shoes from Lee Cooper. Featuring a draw-cord lock closure and mesh inserts with synthetic leather overlays on sides that offer perfect fit and enhanced support, the upper of this pair of running shoes also has padded mouth and tongue that render soft feel. Finished with fabric lining and rubber sole that guarantee great cushioning and good grip on all surfaces; this pair of running shoes can be worn with a T-shirt and shorts.",
+      "price": {
+        "actual": "2025",
+        "default": "2699",
+        "discount": "25"
+      },
+      "properties": [
+        {
+          "id": 0,
+          "title": "Sole Material",
+          "value": "Rubber"
+        },
+        {
+          "id": 1,
+          "title": "Inner Lining",
+          "value": "Fabric"
+        },
+        {
+          "id": 2,
+          "title": "Closing",
+          "value": "Lace-up"
+        },
+        {
+          "id": 3,
+          "title": "Tip shape",
+          "value": "Round"
+        },
+        {
+          "id": 4,
+          "title": "Product warranty",
+          "value": "3 Month Against Manufacturing Defect"
+        },
+        {
+          "id": 5,
+          "title": "Fit",
+          "value": "Regular"
+        },
+        {
+          "id": 6,
+          "title": "Ankle Height",
+          "value": "Low Ankle"
+        },
+        {
+          "id": 7,
+          "title": "Color",
+          "value": "Navy Blue"
+        },
+        {
+          "id": 8,
+          "title": "Upper Material Details",
+          "value": "Mesh|Synthetic Leather"
+        },
+        {
+          "id": 9,
+          "title": "SKU",
+          "value": "LE080SH91FYHINDFAS"
+        }
+      ],
+      "photos": [
+        {
+          "2x": "https://static1.jassets.com/p/Lee-Cooper-Navy-Blue-Running-Shoes-6491-347670003-1-pdp_slider_xs.jpg",
+          "main": "https://static1.jassets.com/p/Lee-Cooper-Navy-Blue-Running-Shoes-6491-347670003-1-pdp_slider_m.jpg",
+          "thumb": "https://static1.jassets.com/p/Lee-Cooper-Navy-Blue-Running-Shoes-6491-347670003-1-pdp_slider_xxs.jpg"
+        },
+        {
+          "2x": "https://static1.jassets.com/p/Lee-Cooper-Navy-Blue-Running-Shoes-6491-347670003-2-pdp_slider_xs.jpg",
+          "main": "https://static1.jassets.com/p/Lee-Cooper-Navy-Blue-Running-Shoes-6491-347670003-2-pdp_slider_m.jpg",
+          "thumb": "https://static1.jassets.com/p/Lee-Cooper-Navy-Blue-Running-Shoes-6491-347670003-2-pdp_slider_xxs.jpg"
+        },
+        {
+          "2x": "https://static1.jassets.com/p/Lee-Cooper-Navy-Blue-Running-Shoes-6491-347670003-3-pdp_slider_xs.jpg",
+          "main": "https://static1.jassets.com/p/Lee-Cooper-Navy-Blue-Running-Shoes-6491-347670003-3-pdp_slider_m.jpg",
+          "thumb": "https://static1.jassets.com/p/Lee-Cooper-Navy-Blue-Running-Shoes-6491-347670003-3-pdp_slider_xxs.jpg"
+        },
+        {
+          "2x": "https://static1.jassets.com/p/Lee-Cooper-Navy-Blue-Running-Shoes-6491-347670003-4-pdp_slider_xs.jpg",
+          "main": "https://static1.jassets.com/p/Lee-Cooper-Navy-Blue-Running-Shoes-6491-347670003-4-pdp_slider_m.jpg",
+          "thumb": "https://static1.jassets.com/p/Lee-Cooper-Navy-Blue-Running-Shoes-6491-347670003-4-pdp_slider_xxs.jpg"
+        },
+        {
+          "2x": "https://static1.jassets.com/p/Lee-Cooper-Navy-Blue-Running-Shoes-6491-347670003-5-pdp_slider_xs.jpg",
+          "main": "https://static1.jassets.com/p/Lee-Cooper-Navy-Blue-Running-Shoes-6491-347670003-5-pdp_slider_m.jpg",
+          "thumb": "https://static1.jassets.com/p/Lee-Cooper-Navy-Blue-Running-Shoes-6491-347670003-5-pdp_slider_xxs.jpg"
+        },
+        {
+          "2x": "https://static1.jassets.com/p/Lee-Cooper-Navy-Blue-Running-Shoes-6491-347670003-6-pdp_slider_xs.jpg",
+          "main": "https://static1.jassets.com/p/Lee-Cooper-Navy-Blue-Running-Shoes-6491-347670003-6-pdp_slider_m.jpg",
+          "thumb": "https://static1.jassets.com/p/Lee-Cooper-Navy-Blue-Running-Shoes-6491-347670003-6-pdp_slider_xxs.jpg"
+        },
+        {
+          "2x": "https://static1.jassets.com/p/Lee-Cooper-Navy-Blue-Running-Shoes-6491-347670003-7-pdp_slider_xs.jpg",
+          "main": "https://static1.jassets.com/p/Lee-Cooper-Navy-Blue-Running-Shoes-6491-347670003-7-pdp_slider_m.jpg",
+          "thumb": "https://static1.jassets.com/p/Lee-Cooper-Navy-Blue-Running-Shoes-6491-347670003-7-pdp_slider_xxs.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "available": true,
+      "brand": "Nike",
+      "title": "Lunarconverge Black Running Shoes",
+      "description": "Designed to offer unmatched speed and comfort are these black ‘LunarConverge’ running shoes from Nike. The soft foam underfoot eases out the transition, whrereas the mesh provides breathable comfort even in the most challenging atmosphere. Other specifications:",
+      "price": {
+        "actual": "3767",
+        "default": "5795",
+        "discount": "35"
+      },
+      "properties": [
+        {
+          "id": 0,
+          "title": "Sole Material",
+          "value": "Rubber"
+        },
+        {
+          "id": 1,
+          "title": "Inner Lining",
+          "value": "Mesh"
+        },
+        {
+          "id": 2,
+          "title": "Closing",
+          "value": "Lace-up"
+        },
+        {
+          "id": 3,
+          "title": "Tip shape",
+          "value": "Round"
+        },
+        {
+          "id": 4,
+          "title": "Product warranty",
+          "value": "6 MONTHS AGAINST MANUFACTURING DEFECTS AND NOT VALID ON MORE THAN 20% DISCOUNTED PRODUCTS"
+        },
+        {
+          "id": 5,
+          "title": "Technology",
+          "value": "Lunar"
+        },
+        {
+          "id": 6,
+          "title": "Fit",
+          "value": "Regular"
+        },
+        {
+          "id": 7,
+          "title": "Ankle Height",
+          "value": "Low Ankle"
+        },
+        {
+          "id": 8,
+          "title": "Color",
+          "value": "Black"
+        },
+        {
+          "id": 9,
+          "title": "Upper Material Details",
+          "value": "Mesh|Synthetic Leather"
+        },
+        {
+          "id": 10,
+          "title": "SKU",
+          "value": "NI091SH66MHKINDFAS"
+        }
+      ],
+      "photos": [
+        {
+          "2x": "https://static1.jassets.com/p/Nike-Lunarconverge-Black-Running-Shoes-0799-463511003-1-pdp_slider_xs.jpg",
+          "main": "https://static1.jassets.com/p/Nike-Lunarconverge-Black-Running-Shoes-0799-463511003-1-pdp_slider_m.jpg",
+          "thumb": "https://static1.jassets.com/p/Nike-Lunarconverge-Black-Running-Shoes-0799-463511003-1-pdp_slider_xxs.jpg"
+        },
+        {
+          "2x": "https://static1.jassets.com/p/Nike-Lunarconverge-Black-Running-Shoes-0799-463511003-2-pdp_slider_xs.jpg",
+          "main": "https://static1.jassets.com/p/Nike-Lunarconverge-Black-Running-Shoes-0799-463511003-2-pdp_slider_m.jpg",
+          "thumb": "https://static1.jassets.com/p/Nike-Lunarconverge-Black-Running-Shoes-0799-463511003-2-pdp_slider_xxs.jpg"
+        },
+        {
+          "2x": "https://static1.jassets.com/p/Nike-Lunarconverge-Black-Running-Shoes-0799-463511003-3-pdp_slider_xs.jpg",
+          "main": "https://static1.jassets.com/p/Nike-Lunarconverge-Black-Running-Shoes-0799-463511003-3-pdp_slider_m.jpg",
+          "thumb": "https://static1.jassets.com/p/Nike-Lunarconverge-Black-Running-Shoes-0799-463511003-3-pdp_slider_xxs.jpg"
+        },
+        {
+          "2x": "https://static1.jassets.com/p/Nike-Lunarconverge-Black-Running-Shoes-0799-463511003-4-pdp_slider_xs.jpg",
+          "main": "https://static1.jassets.com/p/Nike-Lunarconverge-Black-Running-Shoes-0799-463511003-4-pdp_slider_m.jpg",
+          "thumb": "https://static1.jassets.com/p/Nike-Lunarconverge-Black-Running-Shoes-0799-463511003-4-pdp_slider_xxs.jpg"
+        },
+        {
+          "2x": "https://static1.jassets.com/p/Nike-Lunarconverge-Black-Running-Shoes-0799-463511003-5-pdp_slider_xs.jpg",
+          "main": "https://static1.jassets.com/p/Nike-Lunarconverge-Black-Running-Shoes-0799-463511003-5-pdp_slider_m.jpg",
+          "thumb": "https://static1.jassets.com/p/Nike-Lunarconverge-Black-Running-Shoes-0799-463511003-5-pdp_slider_xxs.jpg"
+        },
+        {
+          "2x": "https://static1.jassets.com/p/Nike-Lunarconverge-Black-Running-Shoes-0799-463511003-6-pdp_slider_xs.jpg",
+          "main": "https://static1.jassets.com/p/Nike-Lunarconverge-Black-Running-Shoes-0799-463511003-6-pdp_slider_m.jpg",
+          "thumb": "https://static1.jassets.com/p/Nike-Lunarconverge-Black-Running-Shoes-0799-463511003-6-pdp_slider_xxs.jpg"
+        },
+        {
+          "2x": "https://static1.jassets.com/p/Nike-Lunarconverge-Black-Running-Shoes-0799-463511003-7-pdp_slider_xs.jpg",
+          "main": "https://static1.jassets.com/p/Nike-Lunarconverge-Black-Running-Shoes-0799-463511003-7-pdp_slider_m.jpg",
+          "thumb": "https://static1.jassets.com/p/Nike-Lunarconverge-Black-Running-Shoes-0799-463511003-7-pdp_slider_xxs.jpg"
+        },
+        {
+          "2x": "https://static1.jassets.com/p/Nike-Lunarconverge-Black-Running-Shoes-0799-463511003-8-pdp_slider_xs.jpg",
+          "main": "https://static1.jassets.com/p/Nike-Lunarconverge-Black-Running-Shoes-0799-463511003-8-pdp_slider_m.jpg",
+          "thumb": "https://static1.jassets.com/p/Nike-Lunarconverge-Black-Running-Shoes-0799-463511003-8-pdp_slider_xxs.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "available": true,
+      "brand": "Red Chief",
+      "title": "Tan Outdoor Shoes",
+      "description": "<span>Stay in vogue flaunting these navy blue loafers for men by CCILU. Made from Croslite™, these loafers feature a perforated design. Sleek and trendy in design, these loafers will certainly enhance your casual look.</span>",
+      "price": {
+        "actual": "3495",
+        "default": 0,
+        "discount": 0
+      },
+      "properties": [
+        {
+          "id": 0,
+          "title": "Sole Material",
+          "value": "TPR"
+        },
+        {
+          "id": 1,
+          "title": "Shoe Weight",
+          "value": "Heavy (590 GM)"
+        },
+        {
+          "id": 2,
+          "title": "Closing",
+          "value": "Lace-up"
+        },
+        {
+          "id": 3,
+          "title": "Tip shape",
+          "value": "Round"
+        },
+        {
+          "id": 4,
+          "title": "Product warranty",
+          "value": "3 Months Warranty by Brand/Manufacturer Against Manufacturing Defect"
+        },
+        {
+          "id": 5,
+          "title": "Fit",
+          "value": "Regular"
+        },
+        {
+          "id": 6,
+          "title": "Ankle Height",
+          "value": "High Ankle"
+        },
+        {
+          "id": 7,
+          "title": "Color",
+          "value": "Tan"
+        },
+        {
+          "id": 8,
+          "title": "Upper Material Details",
+          "value": "Genuine Leather"
+        },
+        {
+          "id": 9,
+          "title": "SKU",
+          "value": "RE292SH32OUTINDFAS"
+        }
+      ],
+      "photos": [
+        {
+          "2x": "https://static1.jassets.com/p/Red-Chief-Tan-Outdoor-Shoes-6639-7663102-1-pdp_slider_xs.jpg",
+          "main": "https://static1.jassets.com/p/Red-Chief-Tan-Outdoor-Shoes-6639-7663102-1-pdp_slider_m.jpg",
+          "thumb": "https://static1.jassets.com/p/Red-Chief-Tan-Outdoor-Shoes-6639-7663102-1-pdp_slider_xxs.jpg"
+        },
+        {
+          "2x": "https://static1.jassets.com/p/Red-Chief-Tan-Outdoor-Shoes-6639-7663102-2-pdp_slider_xs.jpg",
+          "main": "https://static1.jassets.com/p/Red-Chief-Tan-Outdoor-Shoes-6639-7663102-2-pdp_slider_m.jpg",
+          "thumb": "https://static1.jassets.com/p/Red-Chief-Tan-Outdoor-Shoes-6639-7663102-2-pdp_slider_xxs.jpg"
+        },
+        {
+          "2x": "https://static1.jassets.com/p/Red-Chief-Tan-Outdoor-Shoes-6639-7663102-3-pdp_slider_xs.jpg",
+          "main": "https://static1.jassets.com/p/Red-Chief-Tan-Outdoor-Shoes-6639-7663102-3-pdp_slider_m.jpg",
+          "thumb": "https://static1.jassets.com/p/Red-Chief-Tan-Outdoor-Shoes-6639-7663102-3-pdp_slider_xxs.jpg"
+        },
+        {
+          "2x": "https://static1.jassets.com/p/Red-Chief-Tan-Outdoor-Shoes-6639-7663102-4-pdp_slider_xs.jpg",
+          "main": "https://static1.jassets.com/p/Red-Chief-Tan-Outdoor-Shoes-6639-7663102-4-pdp_slider_m.jpg",
+          "thumb": "https://static1.jassets.com/p/Red-Chief-Tan-Outdoor-Shoes-6639-7663102-4-pdp_slider_xxs.jpg"
+        },
+        {
+          "2x": "https://static1.jassets.com/p/Red-Chief-Tan-Outdoor-Shoes-6639-7663102-5-pdp_slider_xs.jpg",
+          "main": "https://static1.jassets.com/p/Red-Chief-Tan-Outdoor-Shoes-6639-7663102-5-pdp_slider_m.jpg",
+          "thumb": "https://static1.jassets.com/p/Red-Chief-Tan-Outdoor-Shoes-6639-7663102-5-pdp_slider_xxs.jpg"
+        },
+        {
+          "2x": "https://static1.jassets.com/p/Red-Chief-Tan-Outdoor-Shoes-6640-7663102-6-pdp_slider_xs.jpg",
+          "main": "https://static1.jassets.com/p/Red-Chief-Tan-Outdoor-Shoes-6640-7663102-6-pdp_slider_m.jpg",
+          "thumb": "https://static1.jassets.com/p/Red-Chief-Tan-Outdoor-Shoes-6640-7663102-6-pdp_slider_xxs.jpg"
+        },
+        {
+          "2x": "https://static1.jassets.com/p/Red-Chief-Tan-Outdoor-Shoes-6640-7663102-7-pdp_slider_xs.jpg",
+          "main": "https://static1.jassets.com/p/Red-Chief-Tan-Outdoor-Shoes-6640-7663102-7-pdp_slider_m.jpg",
+          "thumb": "https://static1.jassets.com/p/Red-Chief-Tan-Outdoor-Shoes-6640-7663102-7-pdp_slider_xxs.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "available": true,
+      "brand": "Superdry",
+      "title": "Winter Dakar Brown Boots",
+      "description": "Make the girls go gaga about your fashion sense when you adorn this pair of brown coloured boots by Superdry. Contrasting upper and sole presents a sleek pair of boots, which is flexible and hard wearing. Team these boots with a T-shirt and a pair of denims to receive compliments from onlookers.",
+      "price": {
+        "actual": "5592",
+        "default": "6990",
+        "discount": "20"
+      },
+      "properties": [
+        {
+          "id": 0,
+          "title": "Color",
+          "value": "Brown"
+        },
+        {
+          "id": 1,
+          "title": "Upper Material",
+          "value": "Genuine Leather"
+        },
+        {
+          "id": 2,
+          "title": "Sole Material",
+          "value": "TPR"
+        },
+        {
+          "id": 3,
+          "title": "Closing",
+          "value": "Lace-up"
+        },
+        {
+          "id": 4,
+          "title": "Tip shape",
+          "value": "Round"
+        },
+        {
+          "id": 5,
+          "title": "Ankle Height",
+          "value": "Mid Ankle"
+        },
+        {
+          "id": 6,
+          "title": "Shoe Weight",
+          "value": "Regular (400 GM)"
+        },
+        {
+          "id": 7,
+          "title": "Product warranty",
+          "value": "1 Month Against Manufacturing Defect"
+        },
+        {
+          "id": 8,
+          "title": "SKU",
+          "value": "SU068SH39TNKINDFAS"
+        }
+      ],
+      "photos": [
+        {
+          "2x": "https://static1.jassets.com/p/Superdry-Winter-Dakar-Brown-Boots-3710-063000003-1-pdp_slider_xs.jpg",
+          "main": "https://static1.jassets.com/p/Superdry-Winter-Dakar-Brown-Boots-3710-063000003-1-pdp_slider_m.jpg",
+          "thumb": "https://static1.jassets.com/p/Superdry-Winter-Dakar-Brown-Boots-3710-063000003-1-pdp_slider_xxs.jpg"
+        },
+        {
+          "2x": "https://static1.jassets.com/p/Superdry-Winter-Dakar-Brown-Boots-3710-063000003-2-pdp_slider_xs.jpg",
+          "main": "https://static1.jassets.com/p/Superdry-Winter-Dakar-Brown-Boots-3710-063000003-2-pdp_slider_m.jpg",
+          "thumb": "https://static1.jassets.com/p/Superdry-Winter-Dakar-Brown-Boots-3710-063000003-2-pdp_slider_xxs.jpg"
+        },
+        {
+          "2x": "https://static1.jassets.com/p/Superdry-Winter-Dakar-Brown-Boots-3710-063000003-3-pdp_slider_xs.jpg",
+          "main": "https://static1.jassets.com/p/Superdry-Winter-Dakar-Brown-Boots-3710-063000003-3-pdp_slider_m.jpg",
+          "thumb": "https://static1.jassets.com/p/Superdry-Winter-Dakar-Brown-Boots-3710-063000003-3-pdp_slider_xxs.jpg"
+        },
+        {
+          "2x": "https://static1.jassets.com/p/Superdry-Winter-Dakar-Brown-Boots-3710-063000003-4-pdp_slider_xs.jpg",
+          "main": "https://static1.jassets.com/p/Superdry-Winter-Dakar-Brown-Boots-3710-063000003-4-pdp_slider_m.jpg",
+          "thumb": "https://static1.jassets.com/p/Superdry-Winter-Dakar-Brown-Boots-3710-063000003-4-pdp_slider_xxs.jpg"
+        },
+        {
+          "2x": "https://static1.jassets.com/p/Superdry-Winter-Dakar-Brown-Boots-3710-063000003-5-pdp_slider_xs.jpg",
+          "main": "https://static1.jassets.com/p/Superdry-Winter-Dakar-Brown-Boots-3710-063000003-5-pdp_slider_m.jpg",
+          "thumb": "https://static1.jassets.com/p/Superdry-Winter-Dakar-Brown-Boots-3710-063000003-5-pdp_slider_xxs.jpg"
+        },
+        {
+          "2x": "https://static1.jassets.com/p/Superdry-Winter-Dakar-Brown-Boots-3710-063000003-6-pdp_slider_xs.jpg",
+          "main": "https://static1.jassets.com/p/Superdry-Winter-Dakar-Brown-Boots-3710-063000003-6-pdp_slider_m.jpg",
+          "thumb": "https://static1.jassets.com/p/Superdry-Winter-Dakar-Brown-Boots-3710-063000003-6-pdp_slider_xxs.jpg"
+        },
+        {
+          "2x": "https://static1.jassets.com/p/Superdry-Winter-Dakar-Brown-Boots-3710-063000003-7-pdp_slider_xs.jpg",
+          "main": "https://static1.jassets.com/p/Superdry-Winter-Dakar-Brown-Boots-3710-063000003-7-pdp_slider_m.jpg",
+          "thumb": "https://static1.jassets.com/p/Superdry-Winter-Dakar-Brown-Boots-3710-063000003-7-pdp_slider_xxs.jpg"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "available": true,
+      "brand": "Red Tape",
+      "title": "Brown Boots",
+      "description": "",
+      "price": {
+        "actual": "2148",
+        "default": "4295",
+        "discount": "50"
+      },
+      "properties": [
+        {
+          "id": 0,
+          "title": "Color",
+          "value": "Brown"
+        },
+        {
+          "id": 1,
+          "title": "Upper Material",
+          "value": "Genuine Leather"
+        },
+        {
+          "id": 2,
+          "title": "Sole Material",
+          "value": "TPR"
+        },
+        {
+          "id": 3,
+          "title": "Closing",
+          "value": "Lace-up"
+        },
+        {
+          "id": 4,
+          "title": "Tip shape",
+          "value": "Round"
+        },
+        {
+          "id": 5,
+          "title": "Ankle Height",
+          "value": "Mid Ankle"
+        },
+        {
+          "id": 6,
+          "title": "Package Contents",
+          "value": "1 Pair Of Boots"
+        },
+        {
+          "id": 7,
+          "title": "SKU",
+          "value": "RE104SH21BNRINDFAS"
+        }
+      ],
+      "photos": [
+        {
+          "2x": "https://static1.jassets.com/p/Red-Tape-Brown-Boots-8247-760172003-1-pdp_slider_xs.jpg",
+          "main": "https://static1.jassets.com/p/Red-Tape-Brown-Boots-8247-760172003-1-pdp_slider_m.jpg",
+          "thumb": "https://static1.jassets.com/p/Red-Tape-Brown-Boots-8247-760172003-1-pdp_slider_xxs.jpg"
+        },
+        {
+          "2x": "https://static1.jassets.com/p/Red-Tape-Brown-Boots-8247-760172003-5-pdp_slider_xs.jpg",
+          "main": "https://static1.jassets.com/p/Red-Tape-Brown-Boots-8247-760172003-5-pdp_slider_m.jpg",
+          "thumb": "https://static1.jassets.com/p/Red-Tape-Brown-Boots-8247-760172003-5-pdp_slider_xxs.jpg"
+        },
+        {
+          "2x": "https://static1.jassets.com/p/Red-Tape-Brown-Boots-8247-760172003-3-pdp_slider_xs.jpg",
+          "main": "https://static1.jassets.com/p/Red-Tape-Brown-Boots-8247-760172003-3-pdp_slider_m.jpg",
+          "thumb": "https://static1.jassets.com/p/Red-Tape-Brown-Boots-8247-760172003-3-pdp_slider_xxs.jpg"
+        },
+        {
+          "2x": "https://static1.jassets.com/p/Red-Tape-Brown-Boots-8247-760172003-2-pdp_slider_xs.jpg",
+          "main": "https://static1.jassets.com/p/Red-Tape-Brown-Boots-8247-760172003-2-pdp_slider_m.jpg",
+          "thumb": "https://static1.jassets.com/p/Red-Tape-Brown-Boots-8247-760172003-2-pdp_slider_xxs.jpg"
+        },
+        {
+          "2x": "https://static1.jassets.com/p/Red-Tape-Brown-Boots-8247-760172003-4-pdp_slider_xs.jpg",
+          "main": "https://static1.jassets.com/p/Red-Tape-Brown-Boots-8247-760172003-4-pdp_slider_m.jpg",
+          "thumb": "https://static1.jassets.com/p/Red-Tape-Brown-Boots-8247-760172003-4-pdp_slider_xxs.jpg"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "available": true,
+      "brand": "Johnston & Murphy",
+      "title": "Collins Cap Toe Brown Derby Formal Shoes",
+      "description": "",
+      "price": {
+        "actual": "14000",
+        "default": "19999",
+        "discount": "30"
+      },
+      "properties": [
+        {
+          "id": 0,
+          "title": "Color",
+          "value": "Brown"
+        },
+        {
+          "id": 1,
+          "title": "Upper Material",
+          "value": "Genuine Leather"
+        },
+        {
+          "id": 2,
+          "title": "Sole Material",
+          "value": "Leather"
+        },
+        {
+          "id": 3,
+          "title": "Closing",
+          "value": "Lace-up"
+        },
+        {
+          "id": 4,
+          "title": "Tip shape",
+          "value": "Round"
+        },
+        {
+          "id": 5,
+          "title": "Ankle Height",
+          "value": "Low Ankle"
+        },
+        {
+          "id": 6,
+          "title": "SKU",
+          "value": "JO549SH87GRHINDFAS"
+        }
+      ],
+      "photos": [
+        {
+          "2x": "https://static1.jassets.com/p/Johnston---Murphy-Collins-Cap-Toe-Brown-Derby-Formal-Shoes-8308-814862003-1-pdp_slider_xs.jpg",
+          "main": "https://static1.jassets.com/p/Johnston---Murphy-Collins-Cap-Toe-Brown-Derby-Formal-Shoes-8308-814862003-1-pdp_slider_m.jpg",
+          "thumb": "https://static1.jassets.com/p/Johnston---Murphy-Collins-Cap-Toe-Brown-Derby-Formal-Shoes-8308-814862003-1-pdp_slider_xxs.jpg"
+        },
+        {
+          "2x": "https://static1.jassets.com/p/Johnston---Murphy-Collins-Cap-Toe-Brown-Derby-Formal-Shoes-8308-814862003-2-pdp_slider_xs.jpg",
+          "main": "https://static1.jassets.com/p/Johnston---Murphy-Collins-Cap-Toe-Brown-Derby-Formal-Shoes-8308-814862003-2-pdp_slider_m.jpg",
+          "thumb": "https://static1.jassets.com/p/Johnston---Murphy-Collins-Cap-Toe-Brown-Derby-Formal-Shoes-8308-814862003-2-pdp_slider_xxs.jpg"
+        },
+        {
+          "2x": "https://static1.jassets.com/p/Johnston---Murphy-Collins-Cap-Toe-Brown-Derby-Formal-Shoes-8308-814862003-3-pdp_slider_xs.jpg",
+          "main": "https://static1.jassets.com/p/Johnston---Murphy-Collins-Cap-Toe-Brown-Derby-Formal-Shoes-8308-814862003-3-pdp_slider_m.jpg",
+          "thumb": "https://static1.jassets.com/p/Johnston---Murphy-Collins-Cap-Toe-Brown-Derby-Formal-Shoes-8308-814862003-3-pdp_slider_xxs.jpg"
+        },
+        {
+          "2x": "https://static1.jassets.com/p/Johnston---Murphy-Collins-Cap-Toe-Brown-Derby-Formal-Shoes-8308-814862003-4-pdp_slider_xs.jpg",
+          "main": "https://static1.jassets.com/p/Johnston---Murphy-Collins-Cap-Toe-Brown-Derby-Formal-Shoes-8308-814862003-4-pdp_slider_m.jpg",
+          "thumb": "https://static1.jassets.com/p/Johnston---Murphy-Collins-Cap-Toe-Brown-Derby-Formal-Shoes-8308-814862003-4-pdp_slider_xxs.jpg"
+        },
+        {
+          "2x": "https://static1.jassets.com/p/Johnston---Murphy-Collins-Cap-Toe-Brown-Derby-Formal-Shoes-8308-814862003-5-pdp_slider_xs.jpg",
+          "main": "https://static1.jassets.com/p/Johnston---Murphy-Collins-Cap-Toe-Brown-Derby-Formal-Shoes-8308-814862003-5-pdp_slider_m.jpg",
+          "thumb": "https://static1.jassets.com/p/Johnston---Murphy-Collins-Cap-Toe-Brown-Derby-Formal-Shoes-8308-814862003-5-pdp_slider_xxs.jpg"
+        },
+        {
+          "2x": "https://static1.jassets.com/p/Johnston---Murphy-Collins-Cap-Toe-Brown-Derby-Formal-Shoes-8308-814862003-6-pdp_slider_xs.jpg",
+          "main": "https://static1.jassets.com/p/Johnston---Murphy-Collins-Cap-Toe-Brown-Derby-Formal-Shoes-8308-814862003-6-pdp_slider_m.jpg",
+          "thumb": "https://static1.jassets.com/p/Johnston---Murphy-Collins-Cap-Toe-Brown-Derby-Formal-Shoes-8308-814862003-6-pdp_slider_xxs.jpg"
+        },
+        {
+          "2x": "https://static1.jassets.com/p/Johnston---Murphy-Collins-Cap-Toe-Brown-Derby-Formal-Shoes-8308-814862003-7-pdp_slider_xs.jpg",
+          "main": "https://static1.jassets.com/p/Johnston---Murphy-Collins-Cap-Toe-Brown-Derby-Formal-Shoes-8308-814862003-7-pdp_slider_m.jpg",
+          "thumb": "https://static1.jassets.com/p/Johnston---Murphy-Collins-Cap-Toe-Brown-Derby-Formal-Shoes-8308-814862003-7-pdp_slider_xxs.jpg"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "available": true,
+      "brand": "Aldo",
+      "title": "Krasnoff Navy Blue Sneakers",
+      "description": "Minimally stylish, this pair of navy blue sneakers from ALDO will keep your style simple yet reflect an updated modern look. Featuring a slip-on design that ensures easy wear, this pair of sneakers has clean texture, contrasting taping at the back heel that add to its cool contemporary look. With its synthetic upper, fabric lining and rubber sole assuring outstanding comfort and soft feel, this pair of sneakers will look impressive with a T-shirt, a bomber jacket and a pair of distressed jeans.",
+      "price": {
+        "actual": "5600",
+        "default": "6999",
+        "discount": "20"
+      },
+      "properties": [
+        {
+          "id": 0,
+          "title": "Color",
+          "value": "Navy Blue"
+        },
+        {
+          "id": 1,
+          "title": "Upper Material",
+          "value": "Synthetic Leather"
+        },
+        {
+          "id": 2,
+          "title": "Sole Material",
+          "value": "Rubber"
+        },
+        {
+          "id": 3,
+          "title": "Closing",
+          "value": "Slip On"
+        },
+        {
+          "id": 4,
+          "title": "Tip shape",
+          "value": "Round"
+        },
+        {
+          "id": 5,
+          "title": "Ankle Height",
+          "value": "Low Ankle"
+        },
+        {
+          "id": 6,
+          "title": "Shoe Weight",
+          "value": "Light (282 GM)"
+        },
+        {
+          "id": 7,
+          "title": "Shoe Care",
+          "value": "Surface Dirt can be cleaned with a good quality brush or a damp cloth."
+        },
+        {
+          "id": 8,
+          "title": "SKU",
+          "value": "AL007SH40MEKINDFAS"
+        }
+      ],
+      "photos": [
+        {
+          "2x": "https://static1.jassets.com/p/Aldo-Krasnoff-Navy-Blue-Sneakers-5628-892880003-1-pdp_slider_xs.jpg",
+          "main": "https://static1.jassets.com/p/Aldo-Krasnoff-Navy-Blue-Sneakers-5628-892880003-1-pdp_slider_m.jpg",
+          "thumb": "https://static1.jassets.com/p/Aldo-Krasnoff-Navy-Blue-Sneakers-5628-892880003-1-pdp_slider_xxs.jpg"
+        },
+        {
+          "2x": "https://static1.jassets.com/p/Aldo-Krasnoff-Navy-Blue-Sneakers-5628-892880003-2-pdp_slider_xs.jpg",
+          "main": "https://static1.jassets.com/p/Aldo-Krasnoff-Navy-Blue-Sneakers-5628-892880003-2-pdp_slider_m.jpg",
+          "thumb": "https://static1.jassets.com/p/Aldo-Krasnoff-Navy-Blue-Sneakers-5628-892880003-2-pdp_slider_xxs.jpg"
+        },
+        {
+          "2x": "https://static1.jassets.com/p/Aldo-Krasnoff-Navy-Blue-Sneakers-5628-892880003-3-pdp_slider_xs.jpg",
+          "main": "https://static1.jassets.com/p/Aldo-Krasnoff-Navy-Blue-Sneakers-5628-892880003-3-pdp_slider_m.jpg",
+          "thumb": "https://static1.jassets.com/p/Aldo-Krasnoff-Navy-Blue-Sneakers-5628-892880003-3-pdp_slider_xxs.jpg"
+        },
+        {
+          "2x": "https://static1.jassets.com/p/Aldo-Krasnoff-Navy-Blue-Sneakers-5628-892880003-4-pdp_slider_xs.jpg",
+          "main": "https://static1.jassets.com/p/Aldo-Krasnoff-Navy-Blue-Sneakers-5628-892880003-4-pdp_slider_m.jpg",
+          "thumb": "https://static1.jassets.com/p/Aldo-Krasnoff-Navy-Blue-Sneakers-5628-892880003-4-pdp_slider_xxs.jpg"
+        },
+        {
+          "2x": "https://static1.jassets.com/p/Aldo-Krasnoff-Navy-Blue-Sneakers-5628-892880003-5-pdp_slider_xs.jpg",
+          "main": "https://static1.jassets.com/p/Aldo-Krasnoff-Navy-Blue-Sneakers-5628-892880003-5-pdp_slider_m.jpg",
+          "thumb": "https://static1.jassets.com/p/Aldo-Krasnoff-Navy-Blue-Sneakers-5628-892880003-5-pdp_slider_xxs.jpg"
+        },
+        {
+          "2x": "https://static1.jassets.com/p/Aldo-Krasnoff-Navy-Blue-Sneakers-5628-892880003-6-pdp_slider_xs.jpg",
+          "main": "https://static1.jassets.com/p/Aldo-Krasnoff-Navy-Blue-Sneakers-5628-892880003-6-pdp_slider_m.jpg",
+          "thumb": "https://static1.jassets.com/p/Aldo-Krasnoff-Navy-Blue-Sneakers-5628-892880003-6-pdp_slider_xxs.jpg"
+        },
+        {
+          "2x": "https://static1.jassets.com/p/Aldo-Krasnoff-Navy-Blue-Sneakers-5628-892880003-7-pdp_slider_xs.jpg",
+          "main": "https://static1.jassets.com/p/Aldo-Krasnoff-Navy-Blue-Sneakers-5628-892880003-7-pdp_slider_m.jpg",
+          "thumb": "https://static1.jassets.com/p/Aldo-Krasnoff-Navy-Blue-Sneakers-5628-892880003-7-pdp_slider_xxs.jpg"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "available": true,
+      "brand": "Woodland",
+      "title": "Black Lifestyle Shoes",
+      "description": "An iconic blend of classy design, round toe and semi-Brogue silhouette, this pair of black shoes from Woodland will add gritty edge to your casual dressing. Meticulously designed with suede upper and a lace-up closure, this pair of shoes is finished with layered panels around its foot bed that add perfection to its elevated look. Finished with comfortable synthetic lining and rubber sole, this pair of shoes will look great with a printed shirt and chinos.  ",
+      "price": {
+        "actual": "2697",
+        "default": "3595",
+        "discount": "25"
+      },
+      "properties": [
+        {
+          "id": 0,
+          "title": "Color",
+          "value": "Black"
+        },
+        {
+          "id": 1,
+          "title": "Upper Material",
+          "value": "Suede Leather"
+        },
+        {
+          "id": 2,
+          "title": "Sole Material",
+          "value": "Rubber"
+        },
+        {
+          "id": 3,
+          "title": "Closing",
+          "value": "Lace-up"
+        },
+        {
+          "id": 4,
+          "title": "Tip shape",
+          "value": "Round"
+        },
+        {
+          "id": 5,
+          "title": "SKU",
+          "value": "WO136SH28RHGINDFAS"
+        }
+      ],
+      "photos": [
+        {
+          "2x": "https://static1.jassets.com/p/Woodland-Black-Lifestyle-Shoes-7790-361722003-1-pdp_slider_xs.jpg",
+          "main": "https://static1.jassets.com/p/Woodland-Black-Lifestyle-Shoes-7790-361722003-1-pdp_slider_m.jpg",
+          "thumb": "https://static1.jassets.com/p/Woodland-Black-Lifestyle-Shoes-7790-361722003-1-pdp_slider_xxs.jpg"
+        },
+        {
+          "2x": "https://static1.jassets.com/p/Woodland-Black-Lifestyle-Shoes-7790-361722003-2-pdp_slider_xs.jpg",
+          "main": "https://static1.jassets.com/p/Woodland-Black-Lifestyle-Shoes-7790-361722003-2-pdp_slider_m.jpg",
+          "thumb": "https://static1.jassets.com/p/Woodland-Black-Lifestyle-Shoes-7790-361722003-2-pdp_slider_xxs.jpg"
+        },
+        {
+          "2x": "https://static1.jassets.com/p/Woodland-Black-Lifestyle-Shoes-7790-361722003-3-pdp_slider_xs.jpg",
+          "main": "https://static1.jassets.com/p/Woodland-Black-Lifestyle-Shoes-7790-361722003-3-pdp_slider_m.jpg",
+          "thumb": "https://static1.jassets.com/p/Woodland-Black-Lifestyle-Shoes-7790-361722003-3-pdp_slider_xxs.jpg"
+        },
+        {
+          "2x": "https://static1.jassets.com/p/Woodland-Black-Lifestyle-Shoes-7790-361722003-4-pdp_slider_xs.jpg",
+          "main": "https://static1.jassets.com/p/Woodland-Black-Lifestyle-Shoes-7790-361722003-4-pdp_slider_m.jpg",
+          "thumb": "https://static1.jassets.com/p/Woodland-Black-Lifestyle-Shoes-7790-361722003-4-pdp_slider_xxs.jpg"
+        },
+        {
+          "2x": "https://static1.jassets.com/p/Woodland-Black-Lifestyle-Shoes-7790-361722003-5-pdp_slider_xs.jpg",
+          "main": "https://static1.jassets.com/p/Woodland-Black-Lifestyle-Shoes-7790-361722003-5-pdp_slider_m.jpg",
+          "thumb": "https://static1.jassets.com/p/Woodland-Black-Lifestyle-Shoes-7790-361722003-5-pdp_slider_xxs.jpg"
+        },
+        {
+          "2x": "https://static1.jassets.com/p/Woodland-Black-Lifestyle-Shoes-7790-361722003-6-pdp_slider_xs.jpg",
+          "main": "https://static1.jassets.com/p/Woodland-Black-Lifestyle-Shoes-7790-361722003-6-pdp_slider_m.jpg",
+          "thumb": "https://static1.jassets.com/p/Woodland-Black-Lifestyle-Shoes-7790-361722003-6-pdp_slider_xxs.jpg"
+        },
+        {
+          "2x": "https://static1.jassets.com/p/Woodland-Black-Lifestyle-Shoes-7790-361722003-7-pdp_slider_xs.jpg",
+          "main": "https://static1.jassets.com/p/Woodland-Black-Lifestyle-Shoes-7790-361722003-7-pdp_slider_m.jpg",
+          "thumb": "https://static1.jassets.com/p/Woodland-Black-Lifestyle-Shoes-7790-361722003-7-pdp_slider_xxs.jpg"
+        }
+      ]
+    }
+  ]
+}
