@@ -8,7 +8,8 @@ import logMiddleware from '../middleware/log-middleware'
 /* REDUCERS */
 const reducer = combineReducers({
   products: ducks.products,
-  cart: ducks.cart
+  cart: ducks.cart,
+  user: ducks.user
 })
 
 /* MIDDLEWARE */

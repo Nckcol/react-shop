@@ -6,8 +6,16 @@ import { FilteredProductList } from './components/FilteredProductList'
 import { CartButton } from './components/CartButton/index'
 import { Button } from './components/core/Button'
 import * as cart from './ducks/cart'
+import * as user from './ducks/user'
 
 class App extends Component {
+
+  signIn = () => {
+    this.props.actions.signIn({
+      username: 'admin',
+      password: 'admin'
+    })
+  }
 
   render() {
     return (
@@ -15,6 +23,7 @@ class App extends Component {
         <header className='App-header'>
           <h1 className='App-title'>Shoe shop</h1>
           <div className='App-actions'>
+            <Button onClick={this.signIn}>Sign In</Button>
             <CartButton count={this.props.cart.count} />
           </div>
         </header>
@@ -38,7 +47,9 @@ const mapState = (state) => {
 const mapDispatch = (dispatch) => {
   return { 
     actions: {
-      addToCart: (product) => dispatch(cart.actions.addProduct(product))
+      addToCart: (product) => dispatch(cart.actions.addProduct(product)),
+      fetchCart: () => dispatch(cart.actions.fetchCart()),
+      signIn: (u) => dispatch(user.actions.signIn(u))
     }
   }
 }

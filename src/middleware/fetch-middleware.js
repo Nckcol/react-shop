@@ -32,11 +32,20 @@ const fetchMiddleware = (store) => (next) => (action) => {
     types
   } = options
 
+  if(!options.headers) {
+    options.headers = {}
+  }
+
+  if(TOKEN !== '') {
+    options.headers[authHeader] = 'Bearer ' + TOKEN
+  }
+
   next(fetchAction(types))
 
   window.fetch(url, options)
     .then(checkStatus)
     .then(toJson)
+    .then(getAuth)
     .then((data) => next(successAction(data, types)))
     .catch((error) => next(failureAction(error, types)))
 }
@@ -51,7 +60,23 @@ const checkStatus = (response) => {
   return response
 }
 
-const toJson = (response) => response.json()
+let TOKEN = ''
+const authHeader = 'Authorization'
+
+const getAuth = (data) => {
+  if('token' in data) {
+    TOKEN = data.token
+  }
+  return data
+}
+
+const toJson = (response) => {
+  try {
+    return response.json()
+  } catch (e) {
+    return response
+  }
+}
 
 const fetchAction = (types) => (
   {
